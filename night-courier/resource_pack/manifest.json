@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Night Courier - Resource Pack",
+    "description": "Client resources for the Night Courier add-on. (UUIDs are examples)",
+    "uuid": "8c28c6f1-3e6c-4a47-9b75-3fe3e9e60e7f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "6f3a42cc-3b6f-4cf9-b1e8-1c0a6b5a9d8b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
+

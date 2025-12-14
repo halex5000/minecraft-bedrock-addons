@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Night Courier - Behavior Pack",
+    "description": "Core behaviors for the Night Courier add-on. (UUIDs are examples)",
+    "uuid": "1b2b5a69-3cb8-4a7e-9a1e-9f6a018f2f5a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3f8f6c11-5d5b-40e7-a3f5-4cfe8e73b93a",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8c28c6f1-3e6c-4a47-9b75-3fe3e9e60e7f",
+      "version": [1, 0, 0]
+    }
+  ]
+}
+

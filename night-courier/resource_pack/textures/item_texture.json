@@ -1,0 +1,10 @@
+{
+  "resource_pack_name": "Night Courier RP (Example)",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "td.courier_token": {
+      "textures": "textures/items/courier_token"
+    }
+  }
+}
+
